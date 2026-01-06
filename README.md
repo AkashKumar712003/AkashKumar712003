@@ -7,9 +7,9 @@
 
 ## 👋 Hi, I'm Akash Kumar
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+</p> -->
 
 🚀 Engineering student with strong hands-on experience in **full-stack development, data analytics and Exploring AI-powered systems**.  
 I enjoy building scalable products, integrating APIs, and extracting insights from data.
